@@ -20,6 +20,7 @@
 /gems/simplecov         @ybiquitous
 /gems/stackprof         @pocke
 /gems/rails-dom-testing @ksss
+/gems/webrick           @iurev
 /gems/yard              @ksss
 
 # Misc

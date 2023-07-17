@@ -151,3 +151,6 @@
 [submodule "gems/simplecov/0.22/_src"]
 	path = gems/simplecov/0.22/_src
 	url = https://github.com/simplecov-ruby/simplecov.git
+[submodule "gems/webrick/1.8/_src"]
+	path = gems/webrick/1.8/_src
+	url = https://github.com/ruby/webrick.git
